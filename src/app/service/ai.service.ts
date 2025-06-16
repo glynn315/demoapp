@@ -8,7 +8,7 @@ export class AiService {
   private apiUrl = 'https://openrouter.ai/api/v1/chat/completions';
 
   private headers = new HttpHeaders({
-    'Authorization': 'Bearer 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',
+    'Authorization': 'Bearer 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',
     'Content-Type': 'application/json',
     'HTTP-Referer': 'https://demoapp-gules-five.vercel.app/', 
     'X-Title': 'Angular AI Demo'
