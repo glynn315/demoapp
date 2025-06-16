@@ -10,7 +10,7 @@ export class AiService {
   private headers = new HttpHeaders({
     'Authorization': 'Bearer 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',
     'Content-Type': 'application/json',
-    'HTTP-Referer': 'http://localhost:4200', 
+    'HTTP-Referer': 'https://demoapp-gules-five.vercel.app/', 
     'X-Title': 'Angular AI Demo'
   });
 
